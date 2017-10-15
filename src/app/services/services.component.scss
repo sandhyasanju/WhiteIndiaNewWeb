@@ -1,0 +1,62 @@
+.services-main-div {
+    .services-header{
+        margin-top: 2%;
+        padding: 20px;
+    }
+    .image-service{
+        position: relative;
+        width: 100%;
+    }
+    .services-headers {
+        position: absolute;
+        z-index: 1000;
+        width: 95%;
+        a{
+            text-decoration: none;
+        }
+        .serv-head {
+            cursor: pointer;
+        }
+        .mobile-app-header{
+            color: rgb(163, 190, 87);
+            margin-left: 10%;
+            margin-top: 10%;
+        }
+        .e-commerce-header{
+            color: rgb(85, 175, 235);
+            margin-left: 10%;
+            margin-top: 7%;
+        }
+        .api-header{
+            color: rgb(188,129,161);
+            margin-left: 10%;
+            margin-top: 7%;
+        }
+        .web-design-header {
+            color: rgb(195, 105, 55);
+            margin-left: 75%;
+            margin-top: -20%;
+        }
+        .software-deveopment-header {
+            color: rgb(241, 198, 119);
+            margin-left: 75%;
+            margin-top: 7%;
+        }
+        .seo-sem-header {
+            color: rgb(204, 52, 41);
+            margin-left: 75%;
+            margin-top: 7%;
+        }
+    }
+    .services-div{
+        padding: 20px;
+        .services-sub-header {
+            margin-bottom:20px;
+            margin-top: 20px;
+        }
+        .services-sub-text {
+            font-size: 12px;
+            letter-spacing: 1.1px;
+        }
+    }
+}

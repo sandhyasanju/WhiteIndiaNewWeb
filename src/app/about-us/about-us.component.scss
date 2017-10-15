@@ -1,0 +1,30 @@
+.about-us-main-div {
+    .about-us-upper-part{
+        background: linear-gradient(to bottom, rgba(197,202,205,0.5),rgba(197, 202, 205, 0), rgba(197,202,205,1));
+        .about-us-image-part {
+            margin-top: 20px;
+        }
+        .bottom-center {
+            margin-top: -50px;
+            padding: 20px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .about-us-text {
+            margin-top: 10px;
+            font-size: 16px;
+            letter-spacing: 1.1px;
+            margin-bottom: 10px;
+        }
+    }
+    .about-us-lower-div{
+        background: #ffffff;
+        .about-us-header {
+            padding: 10px;
+            background: rgb(76, 156, 0);
+            margin-top: 20px;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+    }
+}

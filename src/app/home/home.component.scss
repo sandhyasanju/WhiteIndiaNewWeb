@@ -1,0 +1,41 @@
+.carousel-item{
+    img{
+        width: 100%;
+    }
+    .carousel-caption {
+        top: 145px;
+        width: 60%;
+        left: 10%;
+        .header {
+            color: rgb(64, 64, 64);
+            margin-bottom: 40px;
+            .header-black{
+                color: rgb(40, 52, 48) !important;
+            }
+            .header-white {
+                color: #ffffff !important;
+            }
+        }
+        .slider-text{
+            font-size: 22px;
+            margin-bottom: 40px;
+        }
+        .btn-green {
+            background: rgb(147, 208, 78);
+            color: white;
+        }
+        .read-more-btn {
+            background: rgb(48, 44, 43);
+            color: white;
+            padding: 20px;
+            border: none;
+            border-radius: 25px;
+        }
+    }
+    .top-left-caption{
+        top: 30px;
+        left: 5%;
+        width: 50%;
+        text-align: left;
+    }
+}
